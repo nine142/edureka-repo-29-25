@@ -2,5 +2,8 @@ a=5
 b=6
 c-9
 d=1
-sum=a+b+c+d
+f=4
+
+sum=a+b+c+d+f
+nul=a*b
 print summ
