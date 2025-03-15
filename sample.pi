@@ -4,10 +4,10 @@ c-9
 d=1
 e=7
 f=4
-X=2
-Y=2
+X=10
+Y=40
 
-sum=a+b+c+d+e+f
+sum=a+b+c+d+e+f+x+z
 Sub=a-b
 nul=a*b
 print summ
